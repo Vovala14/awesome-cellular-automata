@@ -215,6 +215,7 @@ List of cellular automata implementations
 * [96lives/gca](https://github.com/96lives/gca) - "Generative Cellular Automata" (ICLR): 3D shape generation via CA transition kernels
 * [dwoiwode/awesome-neural-cellular-automata](https://github.com/dwoiwode/awesome-neural-cellular-automata) - Curated papers/resources on Neural Cellular Automata
 * [MECLabTUDA/awesome-nca](https://github.com/MECLabTUDA/awesome-nca) - Curated NCA research/framework/application list
+* [Vovala14/Mica-Ai](https://github.com/Vovala14/Mica-Ai) - Language model whose inference is a 1D integer cellular automaton with learned rule tables (no neural network); browser playground. Non-commercial license
 
 ## Particles
 * [Clusters](https://www.ventrella.com/Clusters/)
